@@ -1,0 +1,11 @@
+Pros:
+    - Allows real-time user interaction with geometric objects, graphs, sliders, and animations.
+    - Supports 2D and limited 3D geometry.
+    - Open Source and Free.
+    - Can interact with other JavaScript libraries.
+
+cons: 
+    - Limited 3D Support.
+    - Requires understanding of coordinates and Math.
+    - CSS control is limited because rendering uses SVG.
+    - Complex constructions and large number of dynamic objects may slow down the browser.

@@ -1,0 +1,6 @@
+Performance can degrade if the board has many elements, frequent updates, or complex interactions.
+and event listeners on many elements (like drag, click) can accumulate and slow performance.
+
+- the solution is by reduce the Number of Elements, only attach event listeners to elements that need them and use debounce.
+- try using css transforms with less number of svg points.
+- clean up board and reset and redraw fir event listeners.
